@@ -73,16 +73,6 @@ Building scalable web applications, real-time systems, and AI-powered solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Bhushan144&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhushan144&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan144&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
 ## 🏆 Achievements
 
 - ⭐ 350+ DSA Problems Solved
