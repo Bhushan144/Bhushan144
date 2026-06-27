@@ -78,4 +78,5 @@ Building scalable web applications, real-time systems, and AI-powered solutions.
 - ⭐ 350+ DSA Problems Solved
 - ⭐ LeetCode Rating 1600+
 - ⭐ IBM Backend Development Certification
+- Achieved a rank of 4808 in the MHT CET (State-level Engineering Entrance Exam) among over 600,000 candidates.
 
