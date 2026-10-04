@@ -5,9 +5,6 @@ Full-Stack Developer • MERN Stack • Computer Engineering @ VIIT Pune
 </p>
 
 - 🚀 Building web applications with modern technologies.
-- 🧠 Solved **350+ DSA** problems (**LeetCode 1600+**).
-- 🏆 Achieved a rank of 4808 in the MHT CET (State-level Engineering Entrance Exam) among over 600,000 candidates.
-
 ---
 
 ## 🌐 Connect With Me
